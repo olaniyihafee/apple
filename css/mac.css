@@ -1,0 +1,45 @@
+.table-div{
+    width: 1000px;
+    height: 1000px;
+    background-color: blueviolet;
+}
+.divs-blackbg{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    height: 600px;
+}
+.divs-blackbg a{
+    color: blue;
+} 
+.divs-blackbg span{
+    color: goldenrod;
+}
+.table-img1{    
+    content: url("../resources/mac/macbook_air__bfz9o93hnyuq_large.jpg");
+    width: 100%;
+    height: 100%;
+}
+.table-img2{    
+    content: url("../resources/mac/macbook_pro_13__ft1pc3lqwd6y_large.jpg");
+    width: 100%;
+    height: 100%;
+}
+.table-img3{    
+    content: url("../resources/mac/macbook_pro_16__x90efpvdutu6_large.jpg");
+    width: 100%;
+    height: 100%;
+}
+.icloud-div-img{
+    content: url("../resources/mac/security__ecyds4y0azee_large.jpg");
+}
+.animated-tabs-div{
+    width: 75%;
+    height: 400px;
+}
+.built-inApps-img{
+    content: url("../resources/mac/bia_safari__f5wdn5ar3gya_large.jpg");
+}
+.ProApps-img{
+    content: url("../resources/mac/pro_logicpro__cts1oz69pkq6_large.jpg");
+}
