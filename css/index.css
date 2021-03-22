@@ -1,0 +1,58 @@
+.div2{
+   
+}
+.div2 img{
+    content: url("../resources/index/iphone_12_us__fo0stbby242m_large.jpg");
+    width: 100%;
+    height: 100%;
+    
+}
+
+.div3{    
+    background-color: black;
+    color: white;
+}
+.div3 img{
+    content: url("../resources/index/iphone_12_pro_us__e5oyysg4k0ya_large.jpg");
+    width: 100%;
+    height: 100%;
+}
+.div4{ 
+
+}
+.div4 img{
+    content: url("../resources/index/hero__dvsxv8smkkgi_large.jpg");
+    width: 100%;
+    height: 100%;
+}
+.div5{ 
+
+}
+.div5 img{
+    width: 400px;
+    height: 380px;
+    background-color: aqua;
+}
+.div6{ 
+    height: 620px;
+}
+#div6-1{   
+    margin: 5px;
+    background-color: black;
+    color: white;
+}
+#div6-1 img{
+    width: 400px;
+    height: 380px;
+    background-color: aqua;
+}
+#div6-2{
+    margin: 5px;
+    background-color: rgb(16, 151, 204);
+    color: white;
+}
+#div6-2 img{
+    width: 400px;
+    height: 380px;
+    background-color: aqua;
+}
